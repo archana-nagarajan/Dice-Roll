@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_aaf254245f05b7ed6a5fa24ecb219af53aff687d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_ccc141b0225cdc717e37e69ae0d1e617bcd5ccab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_94ab8997386ca26222b128384f9a0f4d9a954d70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_ef2522c279aa86d0ac1e469140f299ac6a3734b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_51b394cae376a9a6018a8c4700927016f1045bc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_e7aa042769aa690fd807f5622cac770e3069c2de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_0a5c3d6d10ebc999fb4522a4409a4ce430d67177/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_1a4abbb3c897b7788ccf0605e7b9b3ab097e7a47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_73aaa50c7a2365b4ee2ff7f30fc5f3ae1cc8e256/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_3e23dd17b9f1f795a395e03501d553f19b0be1a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="669c11501dccf845dfa9bfdbefb26d98a359aafe">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c155eacf64efe9d0c26832148b645b27c04b62d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa2a3b2c8eef36163ed2d854a7e12d604bc3c8a6">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f94d8ae5c2483377beb163e10928acbdd2fff2cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_d1d5ecdf5e32a6bfb8126490eccc65fb59761a4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_42b8d0db61e4d4f004bbe51e58770b1758a1540e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/archana.nagarajan/AndroidStudioProjects/DiceRoll/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_e94fcec385a40852cf18f313745ce4cb40fac17c/classes.dex" />
+    </item>
+
+</items>
